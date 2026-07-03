@@ -1,12 +1,92 @@
-<!-- ===== ANIMATED HEADER BANNER ===== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20There!%20👋&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Fullstack%20%26%20DevOps%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
-</div>
+# Hi there 👋 I'm Karan Das
 
-<!-- ===== TYPING ANIMATION ===== -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;DevOps+Engineer+%E2%9A%99%EF%B8%8F;MERN+Stack+Specialist+%F0%9F%9A%80;GenAI+%26+Agentic+AI+Enthusiast+%F0%9F%A4%96;Docker+%7C+Kubernetes+%7C+Linux+%F0%9F%90%B3" alt="Typing SVG" />
+::: {align="center"}
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Karan%20Das&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Builder" width="100%"/>`{=html}
+
+[![Typing
+SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js;Python+%7C+AI+%7C+LangChain;Building+Modern+Web+Apps)](https://git.io/typing-svg)
+
+![](https://komarev.com/ghpvc/?username=karan-das&label=Profile+Views&color=0e75b6)
+![](https://img.shields.io/github/followers/karan-das?style=social)
+:::
+
+------------------------------------------------------------------------
+
+## 🚀 About Me
+
+-   💻 Full Stack Developer
+-   🤖 Building AI-powered applications
+-   🌱 Learning DevOps, Cloud & Kubernetes
+-   ⚡ Exploring Agentic AI, RAG & Modern Web
+-   📍 India
+
+------------------------------------------------------------------------
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css)
+
+### Backend
+
+![Skills](https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres)
+
+### DevOps
+
+![Skills](https://skillicons.dev/icons?i=docker,linux,git,github,nginx,aws)
+
+### AI
+
+![Skills](https://skillicons.dev/icons?i=python)
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+
+------------------------------------------------------------------------
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=karan-das&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karan-das&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=karan-das&theme=tokyonight&hide_border=true)
+
+------------------------------------------------------------------------
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=karan-das&theme=tokyonight&no-frame=true)
+
+------------------------------------------------------------------------
+
+## 📈 Contribution Graph
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=karan-das&theme=tokyo-night)
+
+------------------------------------------------------------------------
+
+## 🌐 Connect
+
+-   GitHub: https://github.com/karan-das
+-   LinkedIn: Add your profile
+-   Portfolio: Add your portfolio
+-   Email: Add your email
+
+------------------------------------------------------------------------
+
+## 🐍 Snake Animation
+
+After enabling the Platane GitHub Action:
+
+``` text
+https://raw.githubusercontent.com/karan-das/karan-das/output/github-contribution-grid-snake-dark.svg
+```
+
+------------------------------------------------------------------------
+
+⭐ Thanks for visiting my profile!
   </a>
 </div>
 
