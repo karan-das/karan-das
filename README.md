@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Karan Das
 
-::: {align="center"}
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Karan%20Das&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Builder" width="100%"/>`{=html}
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Karan%20Das&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Builder" width="100%"/>
 
 [![Typing
 SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js;Python+%7C+AI+%7C+LangChain;Building+Modern+Web+Apps)](https://git.io/typing-svg)
